@@ -1,8 +1,6 @@
-// BASE CREATE BY Ruztan
+// BASE CREATE BY CANDRA
 // Recode FallZx
-
 // Osaragi V1.0
-// YT: QyuuNee
 
 require("./settings")
 const welcome = JSON.parse(fs.readFileSync('./all/database/welcome.json'))
