@@ -1,6 +1,6 @@
 // BASE CREATE BY CANDRA
 // Recode FallZx
-// Osaragi V1.0
+// Komet V1.0
 
 require("./settings")
 const welcome = JSON.parse(fs.readFileSync('./all/database/welcome.json'))
